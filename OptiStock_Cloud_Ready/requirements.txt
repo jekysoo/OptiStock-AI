@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+xgboost
+prophet
+matplotlib
+plotly
+shap
+openpyxl
